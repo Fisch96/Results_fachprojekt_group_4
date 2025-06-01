@@ -1,3 +1,6 @@
+Ergebnisse des 1. Projekts zum Fachprojekt "Routingalgorithmen" 2025 der Gruppe 4.
+Die geänderten Algorithmen tragen die Namen "tl_inverse_capacity" und "demand_first_waypoints" (Der Algorithmus odemand_first_waypoints ist der Originale GreedyWaypoints, nicht der veränderte.)
+
 # Traffic Engineering with Joint Link Weight and Segment Optimization
 
 ## Overview 
